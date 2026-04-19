@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Delmarit
+#  Hi, I'm Delmarit
 
 ## 💫 About Me
 - 💻 Passionate Web Developer
@@ -58,7 +58,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel)](https://delmar-dev-portfolio.vercel.app/)
 
-![Preview](https://via.placeholder.com/800x400.png?text=My+Portfolio)
 
 ---
 
